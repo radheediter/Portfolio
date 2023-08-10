@@ -1,0 +1,228 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    width: 10%;
+    width: 45%;
+    margin: auto;
+    font-family: 'Andika', sans-serif;
+    padding-top: 75px;
+}
+
+.container {
+    background-color: #6528F7;
+}
+
+.container,
+p {
+    font-size: 24px;
+    font-family: 'Andika', sans-serif;
+}
+
+.ptag {
+    display: inline-block;
+    position: absolute;
+    padding-top: 10px;
+    width: 40%;
+    margin: auto;
+}
+
+.topcloud {
+    display: inline-block;
+    position: absolute;
+    top: 286px;
+    left: 327px;
+}
+
+
+.bottomcloud {
+    display: inline-block;
+    position: absolute;
+    top: 171px;
+    right: 417px;
+}
+
+.mountains {
+    display: inline-block;
+    text-align: center;
+}
+
+.profilephoto {
+    /* width: 12%; */
+    margin-top: 70px;
+    filter: drop-shadow(1px -3px 6px #353535);
+}
+
+.para {
+    padding: 20px 0px;
+    width: 70%;
+    margin: auto;
+}
+
+hr {
+    opacity: 60%;
+    border: none;
+    border-top: 10px dotted lightslategray;
+    width: 10%;
+    margin-left: 46%;
+}
+
+.myskill{
+    margin: auto;
+    text-decoration: underline;
+    color: #f7f9d3;
+}
+
+.size {
+    padding-top: 40px;
+    font-size: 1.7em;
+    /* padding-left: 572px; */
+    width: 50%;
+    margin: auto;
+}
+
+.chili {
+    width: 15%;
+    padding-left: 272px;
+    padding-bottom: 47px;
+    text-align: right;
+    margin: auto;
+    float: left;
+    filter: drop-shadow(-28px -8px 4px #353535);
+}
+
+.para2 {
+    display: inline-block;
+    width: 52%;
+    padding-top: 52px;
+    padding-bottom: 15px;
+    margin: auto;
+    text-align: left;
+}
+
+.code {
+    width: 15%;
+    padding-right: 272px;
+    padding-bottom: 47px;
+    text-align: left;
+    margin: auto;
+    float: right;
+    filter: drop-shadow(30px 10px 4px #353535);
+}
+
+.para3 {
+    display: inline-block;
+    width: 52%;
+    padding-top: 52px;
+    padding-bottom: 30px;
+    margin: auto;
+    text-align: left;
+}
+
+.programming {
+    padding-top: 40px;
+    font-size: 1.7em;
+    /* padding-left: 572px; */
+    width: 45%;
+    margin: auto;
+}
+
+.secondhr {
+    opacity: 60%;
+    border: none;
+    border-top: 10px dotted lightslategray;
+    width: 10%;
+    margin-left: 46%;
+}
+
+.p3 {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 25px;
+}
+
+.button-27 {
+
+    appearance: none;
+    background-color: #000000;
+    border: 2px solid #1A1A1A;
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    min-height: 60px;
+    min-width: 0;
+    outline: none;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 10%;
+    will-change: transform;
+}
+
+.button-27:disabled {
+    pointer-events: none;
+}
+
+.button-27:hover {
+    box-shadow: rgba(255, 255, 255, 0.801) 0 8px 15px;
+    transform: translateY(-2px);
+}
+
+.button-27:active {
+    box-shadow: none;
+    transform: translateY(0);
+}
+
+.footer {
+    background-color: #9463c7;
+    width: auto;
+    height: 100px;
+    border: 1.8px solid black;
+    padding: 50px;
+    margin-top: 20px;
+    text-transform: capitalize;
+}
+
+.footer-link {
+    text-align: center;
+    margin: 0px 119px;
+    font-size: 1.5em;
+    color: #ffffffe8;
+    text-decoration: none;
+    font-weight: 30px;
+}
+.footer-link:hover {
+    text-align: center;
+    margin: 0px 119px;
+    font-size: 1.5em;
+    color: #070000e8;
+    text-decoration: none;
+}
+.copyright{
+    padding-left: 46px;
+    width: 50%;
+    padding-top: 52px;
+    margin: auto;
+}
+.middleclass{
+    background-color: #A076F9;
+    padding-bottom: 20px;
+}
+.touch{
+    background-color: #c09ce7;
+}
+
+
